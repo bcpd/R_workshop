@@ -1,4 +1,4 @@
 R_workshop
 ==========
 
-R Software Carpentry workshop
+My first Repo
